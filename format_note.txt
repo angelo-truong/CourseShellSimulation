@@ -1,0 +1,9 @@
+Some notes of how they are formatted:
+last name
+first name
+address
+date of birth MM/DD/YYY
+username (first digit = admin,teacher, or student second digit = which school they belong to(this doesnt apply to admin))
+password (i say we leave the password as it is since we will only be demoing a few things)
+course they are taking(doesnt apply to admin and so far i only figured out how to do only 1 course)
+(still thinking of how to add more courses)
